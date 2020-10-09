@@ -1,0 +1,216 @@
+
+#shimage img {
+    background: url('new b/images/sh.jpg');
+    width:800px;
+    height:300;
+  display: block; 
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+    color:white;
+    float: right;
+}
+
+/*-النشادر- */
+/*{
+    box-sizing: border-box;
+}*/
+
+.ar{
+  font-size: 30px;  
+    margin-left: auto;
+    
+}
+.ar img{
+   /*  background-image: url('new b/images/nsh.jpg');*/
+    vertical-align: middle;
+    width: 300px;
+     border: solid 2px white;
+   margin: 30px 150px;   
+    padding: 10px;
+    font-size:30px;
+}
+
+
+/*.ar .con{
+ position: absolute;
+    bottom: 0;
+    background: rgba(0,0,0,5);
+    color: white;
+}
+/*.text_pa {
+    margin:-40px 150px;
+    font-size: 24px;
+    color: aliceblue;
+}*/
+
+#shim img {
+  background: url('new b/images/mnuo.jpeg');
+ float: right;
+ width: 800px; 
+    height: 800px;
+    margin: 10px;
+   
+}
+h2{
+    font-size: 20px;
+    font-family: monospace;
+    text-align: right;
+    
+}
+#leena{
+    font-size: 30px;
+    float: none;
+    margin:100px 400px;
+    background-color: darkkhaki;
+ border: solid 1px white;
+    padding: 50px ;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    
+    border-radius: 20px;
+   
+}
+.submit{
+    background-color: green;
+   font-size: 30px;
+    color: white;
+    box-sizing: 30px;
+
+    
+   background-size: 20px;
+    
+    
+    
+}
+/*--اليانسون -
+
+
+#aa img {
+     background-image: url('new b/images/yan.jpg');
+    width: 300px;
+     border: solid 2px white;
+   margin: 100px 150px;
+    padding: 30px;
+}
+#text_pa {
+    margin:-40px 150px;
+    font-size: 24px;
+    color: aliceblue;
+}
+
+
+/*--منين--
+
+#ab img {
+     background-image: url('new b/images/mn.jpg');
+    width: 300px;
+     border: solid 2px white;
+   margin: 100px 150px;
+    padding: 30px;
+}
+#text_pb{
+    margin:-40px 150px;
+    font-size: 24px;
+    color: aliceblue;
+}
+
+/* قرقوش--
+#ac img {
+     background-image: url('new b/images/kh.jpg');
+    width: 300px;
+     border: solid 2px white;
+   margin: 100px 150px;
+    padding: 30px;
+}
+#text_pc{
+    margin:-40px 150px;
+    font-size: 24px;
+    color: aliceblue;
+}
+
+/*--كعك -
+
+#ad img {
+     background-image: url('new b/images/ka.jpg');
+    width: 300px;
+     border: solid 2px white;
+   margin: 100px 150px;
+    padding: 30px;
+}
+#text_pd{
+    margin:-40px 150px;
+    font-size: 24px;
+    color: aliceblue;
+}
+
+/*--غريبه--
+
+
+#ae img {
+     background-image: url('new b/images/gr.jpg');
+    width: 300px;
+     border: solid 2px white;
+   margin: 100px 150px;
+    padding: 30px;
+}
+#text_pe{
+    margin:-40px 150px;
+    font-size: 24px;
+    color: aliceblue;
+}
+
+/*--باسطه--
+
+#af img {
+     background-image: url('new b/images/pas.jpg');
+    width: 300px;
+     border: solid 2px white;
+   margin: 100px 150px;
+    padding: 30px;
+}
+#text_pf{
+    margin:-40px 150px;
+    font-size: 24px;
+    color: aliceblue;
+}
+
+/*--اكلير--
+
+#ag img {
+     background-image: url('new b/images/ikl.jpg');
+    width: 300px;
+     border: solid 2px white;
+   margin: 100px 150px;
+    padding: 30px;
+}
+#text_pg{
+    margin:-40px 150px;
+    font-size: 24px;
+    color: aliceblue;
+}
+
+/*--لقيمات--
+
+#ah img {
+     background-image: url('new b/images/lg.jpg');
+    width: 300px;
+     border: solid 2px white;
+   margin: 100px 150px;
+    padding: 30px;
+}
+#text_ph{
+    margin:-40px 150px;
+    font-size: 24px;
+    color: aliceblue;
+}
+*/
+
+
+
+
+body{
+     
+    background-color: darkkhaki;
+}
