@@ -6,6 +6,9 @@
   display: block; 
     margin: 0 auto;
 }
+/*.........*/
+
+
 a{
     text-decoration: none;
     color:white;
@@ -18,18 +21,36 @@ a{
 }*/
 
 .ar{
+    border:1px solid white;
   font-size: 30px;  
-    margin-left: auto;
+    width:44%;
+
+  /*  margin-left: auto;*/
+    float: left;
+    text-align: center;
     
 }
+.leena {
+    border:1px solid white;
+    
+}
+
+
+
+
+
+
+
 .ar img{
    /*  background-image: url('new b/images/nsh.jpg');*/
-    vertical-align: middle;
-    width: 300px;
-     border: solid 2px white;
-   margin: 30px 150px;   
+   /* vertical-align: middle;*/
+    width: 50%;
+    border-radius: 30px;
+     border: solid 3px white;
+    float: none;
+   margin: 100px 150px;  
     padding: 10px;
-    font-size:30px;
+    font-size:30px;*/
 }
 
 
@@ -45,7 +66,7 @@ a{
     color: aliceblue;
 }*/
 
-#shim img {
+.shim img {
   background: url('new b/images/mnuo.jpeg');
  float: right;
  width: 800px; 
@@ -53,10 +74,12 @@ a{
     margin: 10px;
    
 }
+
 h2{
     font-size: 20px;
     font-family: monospace;
-    text-align: right;
+    text-align:right;
+    float: right;
     
 }
 #leena{
@@ -77,6 +100,8 @@ h2{
    font-size: 30px;
     color: white;
     box-sizing: 30px;
+    cursor: pointer;
+    
 
     
    background-size: 20px;
